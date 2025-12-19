@@ -12,8 +12,19 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
+🚀 **OpenNASManager**  
+Application de gestion et de supervision NAS.
 
+🔗 Présentation du projet :  
+👉 https://ivane-ba.github.io/portfolio-project_landingpage/
+
+© 2025 • OpenNASManager • Projet développé par Ivane Bagashvili  
+Tous droits réservés.
 <br clear="both">
+
+---
+
+
 
 
 ###
