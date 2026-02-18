@@ -15,8 +15,23 @@
 
 ## 🚀 Projets
 
-###
+---
+🎬 **Media Optimizer**  
+Analysez et optimisez vos fichiers vidéo avec précision. 10 profils d'optimisation (Plex, Mobile, NAS, YouTube), comparaison côte à côte, mode batch, thème dark/light.
 
+🔗 Application en ligne :  
+👉 https://ivane-ba.github.io/media-optimizer/
+
+🛠️ Technologies : MediaInfo.js, Chart.js, JavaScript ES6+, CSS moderne, 100% Frontend
+
+© 2026 • Media Optimizer • Projet Personnel  
+Développé par Ivane Bagashvili
+
+<br clear="both">
+
+---
+
+###
 🏠 **HBnB**  
 Plateforme de location de logements type Airbnb avec interface moderne et backend Flask.
 
